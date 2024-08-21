@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header ul li{
+  @apply px-2;
+  
+}
+
+.bg-background{
+  background: rgb(85 81 227);
+}
+.bg-primary{
+  background-image:URL("./asserts/Tecnologia\ 9_16\ En\ 2020\ \ ED9.jpeg");
+
+}
+.bg-mobile
+{
+  background-image:URL("./asserts/mobile_view_bg.jpeg");
+}
+.bg-about{
+  background-color: #03346E;
+}
+
+.mobile-nav{
+  @apply fixed top-10 left-0 bg-black w-full h-1/6
+
+}
+.mobile-nav li{
+   @apply text-center w-full h-full border-b-2
+}
+.title{
+  letter-spacing:initial ;
+}
+
+.album {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.album img{
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+html{
+  scroll-behavior: smooth;
+}
