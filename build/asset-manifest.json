@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jiffytech/static/css/main.cf683486.css",
+    "main.js": "/jiffytech/static/js/main.e39d5570.js",
+    "static/media/slick.svg": "/jiffytech/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/jiffytech/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/jiffytech/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/jiffytech/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/jiffytech/index.html",
+    "main.cf683486.css.map": "/jiffytech/static/css/main.cf683486.css.map",
+    "main.e39d5570.js.map": "/jiffytech/static/js/main.e39d5570.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf683486.css",
+    "static/js/main.e39d5570.js"
+  ]
+}
